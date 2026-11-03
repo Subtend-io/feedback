@@ -34,19 +34,25 @@ Please keep it that way here: describe the model, rather than attaching it.
 
 ## The tools
 
-**Released, in beta:** free, in your browser, with nothing to install.
+In the order they're being released.
+
+**In beta:** free, in your browser, with nothing to install, and opening soon.
 
 - <img src="docs/icons/ifcdesk-health-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk health](https://subtend.io/ifcdesk/health)**: check model quality and validate against your IDS requirements. At [health.ifcdesk.co.uk](https://health.ifcdesk.co.uk).
 - <img src="docs/icons/ifcdesk-specify-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk specify](https://subtend.io/ifcdesk/specify)**: write IDS from the spreadsheets and models you already have. At [specify.ifcdesk.co.uk](https://specify.ifcdesk.co.uk).
 
 **In development:**
 
-- <img src="docs/icons/ifcdesk-space-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk space](https://subtend.io/ifcdesk/space)**: a datasheet for any room in the model.
+- <img src="docs/icons/ifcdesk-forge-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk forge](https://subtend.io/ifcdesk/forge)**: edit an IFC model in your browser, with every reference kept intact.
+- <img src="docs/icons/ifcdesk-forge-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk linter](https://subtend.io/ifcdesk/forge#linter)**: find problems in how a model is structured, and fix them with your approval. Part of forge, and a tool of its own.
+- <img src="docs/icons/ifcdesk-secure-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk secure](https://subtend.io/ifcdesk/secure)**: release a model outside the team with what they mustn't see removed.
 - <img src="docs/icons/ifcdesk-coordinate-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk coordinate](https://subtend.io/ifcdesk/coordinate)**: view discipline models together in 3D, and track the issues between them.
-- <img src="docs/icons/ifcdesk-coordinate-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk bcf](https://subtend.io/ifcdesk/coordinate#bcf)**: open and review BCF issue files from any tool, in your browser. Part of coordinate, and a tool of its own.
+- <img src="docs/icons/ifcdesk-coordinate-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk bcf](https://subtend.io/ifcdesk/coordinate#bcf)**: open, edit and compare BCF issue files from any tool, in your browser. Part of coordinate, and a tool of its own.
+- <img src="docs/icons/ifcdesk-space-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk space](https://subtend.io/ifcdesk/space)**: a datasheet for any room in the model.
+- <img src="docs/icons/ifcdesk-data-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk data](https://subtend.io/ifcdesk/data)**: browse a model's data as schedules, and export the tables. Part of ifcdesk office.
 - <img src="docs/icons/ifcdesk-parent-48.png" width="24" height="24" align="absmiddle" alt=""> **[ifcdesk office](https://subtend.io/office)**: every ifcdesk tool in a single application, on the desktop and the web. Free through its beta.
 
-Problems can be reported for the released tools and the site. Ideas are
+Problems can be reported for the tools in beta and the site. Ideas are
 welcome for all of them: what you'd want from a tool still in development
 helps decide what it becomes.
 
